@@ -1,9 +1,10 @@
-Hi, I’m Kristian
+Hello,
 
-I am interested in web development and web scraping projects. I am currently working on implementing web scraping user-friendly platform that will enable users
-with no knowledge of programming to scrape and automate anything on the web (as long as it is legal to do so)
+I am Kristian.
 
-📫 You can DM me for me information
+I am interested in web development and web scraping projects. I am currently working with JS, PHP and Python including frameworks Bootstrap, React.js, and Node.js.
+
+📫 DM me for more information.
 
 <!---
 kdafov/kdafov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
