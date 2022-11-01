@@ -1,12 +1,24 @@
-Hello,
+## ✨ About me ✨
 
-I am Kristian.
+Hi,
 
-I am interested in web development and web scraping projects. I am currently working with JS, PHP and Python including frameworks Bootstrap, React.js, and Node.js.
+I am Kristian, a back-end engineer. I like working on all kinds of different projects, working with people, exploring new technologies and coaching people on their way to success. 
 
-📫 DM me for more information.
+Contact me if you want to work on a project, or if you are looking for free coaching/mentoring.
 
-<!---
-kdafov/kdafov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Technologies 💻
+- Python (ANN, Tkinter/GUI)
+- HTML, CSS, JS
+- NodeJS
+- ReactJS
+- Bootstrap
+- PHP
+- Java (Spring)
+- Bash
+- GCP & AWS (VM, Container management, K8, Serverless, Storage, API Gateways)
+- C (Arduino)
+- Docker
+- TypeScript
+
+## 📫 Contact me 📫
+Email: hi@dafov.club
