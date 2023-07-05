@@ -2,23 +2,20 @@
 
 Hi,
 
-I am Kristian, a back-end engineer. I like working on all kinds of different projects, working with people, exploring new technologies and coaching people on their way to success. 
+I am Kristian, a software engineer. I like working on all kinds of different projects, both in team and by myself. Gaining new knowledge and exploring new technologies is what I look forward to. Helping people on their way to success. Helping small businesses make appearance in the digital world.
 
-Contact me if you want to work on a project, or if you are looking for free coaching/mentoring.
+Contact me if you want to work on a project, or for anything else.
 
 ## 💻 Technologies 💻
-- Python (ANN, Tkinter/GUI)
-- HTML, CSS, JS
+- Python (GUI, Microcontrollers, Testing, Web Scraping)
 - NodeJS
-- ReactJS
-- Bootstrap
+- ReactJS & NextJS
 - PHP
-- Java (Spring)
-- Bash
-- GCP & AWS (VM, Container management, K8, Serverless, Storage, API Gateways)
+- Java
+- GCP & AWS (VM, Container management, Serverless, Storage, API Gateways)
 - C (Arduino)
 - Docker
 - TypeScript
 
 ## 📫 Contact me 📫
-Email: hi@dafov.club
+Email: business.dafov@gmail.com
