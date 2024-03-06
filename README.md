@@ -9,5 +9,5 @@ Hey there, I'm Kristian Dafov, and I'm all about bringing cutting-edge technolog
 - EMBEDDED SYSTEMS
 
 ## 📫 Contact me 📫
-Portfolio: kdafov.com
-Email: contact@kdafov.com
+Portfolio: `https://kdafov.com` \
+Email: `contact@kdafov.com`
