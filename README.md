@@ -1,21 +1,13 @@
 ## ✨ About me ✨
 
-Hi,
+Hey there, I'm Kristian Dafov, and I'm all about bringing cutting-edge technology to empower businesses in the digital age. I specialise in crafting rich web platforms, intricate desktop software, and user-friendly mobile apps, all designed to deliver an exceptional user experience.
 
-I am Kristian, a software engineer. I like working on all kinds of different projects, both in team and by myself. Gaining new knowledge and exploring new technologies is what I look forward to. Helping people on their way to success. Helping small businesses make appearance in the digital world.
-
-Contact me if you want to work on a project, or for anything else.
-
-## 💻 Technologies 💻
-- Python (GUI, Microcontrollers, Testing, Web Scraping)
-- NodeJS
-- ReactJS & NextJS
-- PHP
-- Java
-- GCP & AWS (VM, Container management, Serverless, Storage, API Gateways)
-- C (Arduino)
-- Docker
-- TypeScript
+## ✨ Services ✨ 
+- DESKTOP SOFTWARE
+- MOBILE APPLICATIONS
+- WEBSITE SETUP & MAINTENANCE
+- EMBEDDED SYSTEMS
 
 ## 📫 Contact me 📫
-Email: business.dafov@gmail.com
+Portfolio: kdafov.com
+Email: contact@kdafov.com
